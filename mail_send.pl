@@ -6,8 +6,8 @@ use warnings;
 use Email::MIME;
 my $message = Email::MIME->create(
   header_str => [
-    From    => 'you@example.com',
-    To      => 'friend@example.com',
+    From    => 'drawingarts16@gmail.com',
+    To      => 'sahilsoni542002@gmail.com',
     Subject => 'Happy birthday!',
   ],
   attributes => {
